@@ -1,5 +1,5 @@
 ### Hi Everyone 👋
-This repo show you intermediate problem of javascript and python
+This repo show you intermediate problem of javascript
 
 <!--
 **mayuri-11/mayuri-11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
