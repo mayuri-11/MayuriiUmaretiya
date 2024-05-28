@@ -1,6 +1,6 @@
-// for(i=1;i<=10;i++){
-//     console.log(i**2)
-// }
+for(i=1;i<=10;i++){
+    console.log(i**3)
+}
 
 // let item = ['bred','banana','chocalate','$20'];
 // console.log(item.slice(0,item.length));
