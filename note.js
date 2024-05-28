@@ -2,13 +2,13 @@ for(i=1;i<=10;i++){
     console.log(i**3)
 }
 
-// let item = ['bred','banana','chocalate','$20'];
-// console.log(item.slice(0,item.length));
+let item = ['bred','banana','chocalate','$20'];
+console.log(item.slice(0,item.length));
 
-// for(i=0;i<item.length;i++){
-//     console.log(item[i]);
+for(i=0;i<item.length;i++){
+    console.log(item[i]);
 
-// }
+}
 
 // const Mayuri = {name : 'MAYURI',age : 18}
 // console.log(`Before :${Mayuri.name}`)
